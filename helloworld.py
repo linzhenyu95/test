@@ -5,5 +5,9 @@ print(())
 print({})
 print([])
 print("火箭少女"+str(101))
-input('请输入你的名字：')
+num1 = input('请输入数字1：')
+num2 = input('请输入数字2：')
+print(int(num1)+int(num2))
+print(num1+num2)
+
 
